@@ -793,7 +793,7 @@ if (!itsMe && !isOwner)return
               jpegThumbnail: fs.readFileSync(`./stik/thumb.jpeg`), //Gambarnye
             },
             title: "FakeReply Bang", //Kasih namalu
-            description: "Xeon",
+            description: "Ki SAMA",
             currencyCode: "USD",
             priceAmount1000: "2000",
             retailerId: "𝐃𝐨𝐠𝐞 𝐁𝐨𝐭",
@@ -1631,7 +1631,7 @@ case 'credit':
    
  🌿 : wa.me/${dtod1.split("@")[0]}
  🌿 : wa.me/${dtod.split('@')[0]}
- 🌿 : wa.me/${dtod2.split('@')[0]}
+ 🌿 : wa.me/${dtod2.split('@')[01032199513]}
  `
      credit = xeon.prepareMessageFromContent(from,{ "orderMessage": { "itemCount": 1000, "message": `${yez}`, "footerText": "hehe", "thumbnail": iye, "surface": 'CATALOG'}}, {quoted: mek})
             xeon.relayWAMessage(credit)
