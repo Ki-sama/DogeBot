@@ -1,6 +1,6 @@
-// Script by Xeon 
+// Script by Ki SAMA 
 // 𝐃𝐨𝐠𝐞 𝐁𝐨𝐭
-// ©Xeon Bot Incorporated
+// ©Ki  Bot Incorporated
 const {
   WAConnection: _WAConnection,
   MessageType,
@@ -2012,7 +2012,7 @@ if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quo
  description: `Hi @${sender.split('@')[0]}, Please select the menu here`,
  sections: [
                      {
-                      "title": `Xeon`,
+                      "title": `ki sama`,
  rows: [
                           {
                               "title": "Script",
